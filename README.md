@@ -7,13 +7,18 @@ StreeSkill is a learning platform that provides short, reel-style vertical video
 ---
 
 ## What We Offer
-- Basic Tailoring  
+- Basic Tailoring
+- Embroidery
+- Knitting & Crochet
 - Mehendi  
-- Baking  
+- Baking & Decoration
 - Beauty Parlour Basics  
-- Packaging Skills  
-- How to Sell on Meesho / ONDC
+- Packaging Skills
+- Beadwork
+- Textile Art: Macrame Knot-Tying Techniques
+- Candle Making
 - Quilling Paper Jewelery
+- How to Sell on Meesho / ONDC
 - Many more...
 
 ---
